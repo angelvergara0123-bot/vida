@@ -1,0 +1,53 @@
+{
+    "_comment": "VidaKushala Theme Config — editado desde tema.php",
+    "_version": 1,
+    "_updated": "2026-06-11 13:51:37",
+    "colors": {
+        "vk_deep": "#3a0f28",
+        "vk_plum": "#6b2447",
+        "vk_rose": "#c44d8a",
+        "vk_pink": "#e27bb5",
+        "vk_blush": "#f0c2da",
+        "vk_cream": "#fdf6f9",
+        "vk_petal": "#fce8f1",
+        "td": "#1c0e14",
+        "tm": "#4a2438",
+        "ts": "#7d5a6d",
+        "tu": "#b899a8",
+        "border": "#ead4e0",
+        "border_light": "#f3e5ec",
+        "card": "#ffffff",
+        "body_bg_mobile": "#f0eaf2",
+        "body_bg_desktop": "#f5eef3",
+        "sidebar_bg": "#3a0f28"
+    },
+    "gradients": {
+        "hero_from": "#3a0f28",
+        "hero_mid": "#6b2447",
+        "hero_to": "#8b2d5a",
+        "accent_from": "#c44d8a",
+        "accent_to": "#a83574"
+    },
+    "typography": {
+        "font_heading": "DM Sans",
+        "font_body": "DM Sans",
+        "font_size_base": "16px",
+        "line_height": "1.6"
+    },
+    "shape": {
+        "radius": "14px",
+        "radius_large": "20px",
+        "sidebar_w": "240px"
+    },
+    "shadows": {
+        "sh": "0 8px 40px rgba(107,36,71,.14)",
+        "shs": "0 2px 12px rgba(107,36,71,.08)"
+    },
+    "images": {
+        "logo_url": "",
+        "logo_mobile_url": "",
+        "favicon_url": "",
+        "cover_url": "",
+        "sidebar_icon_letter": "V"
+    }
+}
